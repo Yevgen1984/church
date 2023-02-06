@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/church/static/css/main.7acaea2f.css",
+    "main.js": "/church/static/js/main.465f4102.js",
+    "index.html": "/church/index.html",
+    "main.7acaea2f.css.map": "/church/static/css/main.7acaea2f.css.map",
+    "main.465f4102.js.map": "/church/static/js/main.465f4102.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.465f4102.js"
+  ]
+}
