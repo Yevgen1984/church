@@ -4,7 +4,8 @@ export const LogoImg = styled.img`
   display: block;
   width: 82px;
   height: 72px;
-  margin: 0 auto;
+  margin:0;
+  
 
   /* @media (min-width: 768px) {
     width: 94px;
@@ -14,3 +15,9 @@ export const LogoImg = styled.img`
     margin-right: 80px;
   } */
 `;
+export const LogoBox = styled.div`
+margin: 0 auto;
+display:flex;
+flex-direction:column;
+align-items: center;
+`
