@@ -2,7 +2,7 @@ const theme = {
   colors: {
     accent: '#F59256',
     mainBackground: '#FDF7F2',
-    secondaryBackground: '#ffffff',
+    secondaryBackground: '#ffffff',//
     mainText: '#111111',
     searchText: '#535353',
     navText: '#181C27',
