@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/church/static/css/main.7acaea2f.css",
-    "main.js": "/church/static/js/main.582dc1bb.js",
+    "main.js": "/church/static/js/main.553ff2e6.js",
     "index.html": "/church/index.html",
     "main.7acaea2f.css.map": "/church/static/css/main.7acaea2f.css.map",
-    "main.582dc1bb.js.map": "/church/static/js/main.582dc1bb.js.map"
+    "main.553ff2e6.js.map": "/church/static/js/main.553ff2e6.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.582dc1bb.js"
+    "static/js/main.553ff2e6.js"
   ]
 }
