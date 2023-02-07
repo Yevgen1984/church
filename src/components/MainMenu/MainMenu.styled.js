@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const FooterBlok = styled.footer`
+export const MainMenuBlock = styled.section`
   display: flex;
   align-items: center;
   padding: 10px;
